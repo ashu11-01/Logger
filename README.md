@@ -27,7 +27,7 @@ No indivduality or unique identifier of the device or of the user is stored in t
 
 ## 4. Limitation
 The logging work runs in background every 15 minutes. Since, different OEMs implement their own battery optimizers, they tend to
-aggressively kill the background tasks. [Click here)(https://dontkillmyapp.com) to know more on this. As a workaround, the app should be
+aggressively kill the background tasks. [Click here](https://dontkillmyapp.com) to know more on this. As a workaround, the app should be
 exempted from battery restrictions manually.
 
 ## 5. Improvements/Future Work
